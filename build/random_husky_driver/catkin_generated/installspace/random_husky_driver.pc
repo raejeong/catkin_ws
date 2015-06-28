@@ -1,0 +1,8 @@
+prefix=/home/rae/catkin_ws/install
+
+Name: random_husky_driver
+Description: Description of random_husky_driver
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rae/catkin_ws/install/lib 
+Requires: 

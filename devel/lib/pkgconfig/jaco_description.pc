@@ -1,0 +1,8 @@
+prefix=/home/rae/catkin_ws/devel
+
+Name: jaco_description
+Description: Description of jaco_description
+Version: 0.0.23
+Cflags: 
+Libs: -L/home/rae/catkin_ws/devel/lib 
+Requires: 

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "ros101")
+set(ros101_MAINTAINER "martin <martin@todo.todo>")
+set(ros101_DEPRECATED "")
+set(ros101_VERSION "0.0.0")
+set(ros101_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(ros101_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(ros101_BUILDTOOL_DEPENDS "catkin")

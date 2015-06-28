@@ -1,0 +1,2 @@
+beginner_tutorials:jaco-ros/jaco_demo:jaco-ros/jaco_driver:jaco-ros/jaco_model:jaco-ros/jaco_msgs:learning_actionlib:learning_tf:lesson_simple_node:random_husky_driver:ros101:universal_robot/universal_robot:universal_robot/ur10_moveit_config:universal_robot/ur5_moveit_config:universal_robot/ur_bringup:universal_robot/ur_description:universal_robot/ur_driver:universal_robot/ur_gazebo:universal_robot/ur_kinematics:universal_robot/ur_msgs:using_markers
+-DCATKIN_DEVEL_PREFIX=/home/rae/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rae/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/rae/catkin_ws/install
+
+Name: jaco_teleop
+Description: Description of jaco_teleop
+Version: 0.0.23
+Cflags: 
+Libs: -L/home/rae/catkin_ws/install/lib 
+Requires: 

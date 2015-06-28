@@ -1,0 +1,8 @@
+prefix=/home/rae/catkin_ws/devel
+
+Name: jaco_sdk
+Description: Description of jaco_sdk
+Version: 0.0.23
+Cflags: -I/home/rae/catkin_ws/src/wpi_jaco/jaco_sdk/include
+Libs: -L/home/rae/catkin_ws/devel/lib -lKinova.API.CommLayerUbuntu -lKinova.API.USBCommandLayerUbuntu
+Requires: 

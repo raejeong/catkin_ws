@@ -1,0 +1,8 @@
+prefix=/home/rae/catkin_ws/install
+
+Name: lesson_simple_node
+Description: Description of lesson_simple_node
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rae/catkin_ws/install/lib 
+Requires: 

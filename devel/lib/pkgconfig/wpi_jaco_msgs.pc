@@ -1,0 +1,8 @@
+prefix=/home/rae/catkin_ws/devel
+
+Name: wpi_jaco_msgs
+Description: Description of wpi_jaco_msgs
+Version: 0.0.23
+Cflags: -I/home/rae/catkin_ws/devel/include
+Libs: -L/home/rae/catkin_ws/devel/lib 
+Requires: actionlib_msgs geometry_msgs

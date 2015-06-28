@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "using_makers")
+set(using_makers_MAINTAINER "rae <rae@todo.todo>")
+set(using_makers_DEPRECATED "")
+set(using_makers_VERSION "0.0.0")
+set(using_makers_BUILD_DEPENDS "roscpp" "visualization_msgs")
+set(using_makers_RUN_DEPENDS "roscpp" "visualization_msgs")
+set(using_makers_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "lesson_simple_node")
+set(lesson_simple_node_MAINTAINER "rae <rae@todo.todo>")
+set(lesson_simple_node_DEPRECATED "")
+set(lesson_simple_node_VERSION "0.0.0")
+set(lesson_simple_node_BUILD_DEPENDS "roscpp")
+set(lesson_simple_node_RUN_DEPENDS "roscpp")
+set(lesson_simple_node_BUILDTOOL_DEPENDS "catkin")
